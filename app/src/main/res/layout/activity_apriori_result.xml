@@ -28,7 +28,7 @@
             android:layout_alignParentTop="true"
             android:background="@color/accent_700"
             app:popupTheme="@style/AppTheme.PopupOverlay"
-            app:title="Apriori Algo Result"
+            app:title="AprioriAlgoResult"
             app:titleTextColor="#FFF" />
 
         <FrameLayout

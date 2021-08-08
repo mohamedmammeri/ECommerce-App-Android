@@ -21,7 +21,7 @@
         android:layout_height="2dp"
         android:background="#03A14D" />
 
-    <TextView
+  <!--  <TextView
         android:id="@+id/new_offers_banner"
         android:layout_width="match_parent"
         android:layout_height="60dp"
@@ -40,7 +40,7 @@
         android:textColor="@color/white"
         android:textSize="20sp"
         android:visibility="gone"></TextView>
-
+-->
     <RelativeLayout
         android:id="@+id/checkout_item_root"
         android:layout_width="match_parent"

@@ -30,7 +30,7 @@
         android:textColor="@color/holo_gray_dark"
         android:textSize="18sp" />
 
-    <com.hitesh_sahu.retailapp.view.customview.ClickableViewPager
+    <com.corposense.ubs.view.customview.ClickableViewPager
         android:id="@+id/play_list_pager"
         android:layout_width="match_parent"
         android:layout_height="280dp"

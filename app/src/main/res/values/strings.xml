@@ -9,42 +9,59 @@
 <resources>
 
     <string name="app_name">UBS</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Parametres</string>
     <string name="empty_text">Select song from below to play</string>
     <string name="standard">Standard</string>
     <string name="title_changelog">Change log</string>
-    <string name="changelog_close">Close</string>
-    <string name="action_hide">Hide Panel</string>
-    <string name="action_show">Show Panel</string>
+    <string name="changelog_close">Fermer</string>
+    <string name="action_hide">Masquer le panneau</string>
+    <string name="action_show">Afficher le panneau</string><!--
     <string name="action_anchor_enable">Enable Anchor Point</string>
-    <string name="action_anchor_disable">Disable Anchor Point</string>
+    <string name="action_anchor_disable">Disable Anchor Point</string>-->
     <string name="idle">Idle</string>
-    <string name="crash_toast_text">Oops Crashe Occurred</string>
-    <string name="offer_banner">"Shop for 2000 to get Rs 100 discount and shop for 3000 to get Rs 200 discount"</string>
-    <string name="checkout">CheckOut</string>
-    <string name="similar_product">You may also like</string>
+    <string name="crash_toast_text">Oups, un crash s\'est produit</string>
+    <!--    <string name="offer_banner">"Shop for 2000 to get Rs 100 discount and shop for 3000 to get Rs 200 discount"</string>-->
+    <string name="checkout">Vérifier</string>
+    <string name="similar_product">Tu pourrais aussi aimer</string>
     <string name="slogan">Easy Delivery</string>
-    <string name="email_developer_">Email Developer:</string>
-    <string name="personal_website_">Personal Website :</string>
-    <string name="site_hitesh">www.hiteshsahu.com</string>
-    <string name="contact_number">Contact Number</string>
-    <string name="mob_num">8888813275</string>
+    <string name="email_developer_">Email :</string>
+    <!--    <string name="personal_website_"> Website :</string>-->
+    <!--    <string name="site_hitesh">www.hiteshsahu.com</string>-->
+    <string name="contact_number">Numéro de contact</string>
+    <string name="mob_num">0699999999</string>
     <string name="lab_locations">Locations</string>
     <string name="pune">Pune</string>
-    <string name="address_value">C 1002, Lorelle Socity Wakad Pune</string>
-    <string name="title_activity_signup">Sign up</string>
+    <string name="address">L\'Address</string>
+    <string name="address_value">kouba, Alger</string>
+    <string name="title_activity_signup">S\'inscrire</string>
+    <string name="lang_fr">Français</string>
+    <string name="lang_ar">عربي</string>
+    <!-- HomeFragment frag_product_category-->
+    <string name="toolbar_categories_title">Categories</string>
+    <!-- mNavigationView drawer-->
+    <string name="home">Accueil</string>
+    <string name="my_cart">Mon panier</string>
+    <string name="apriori_mining_resul">Historique</string>
+    <string name="contact_us">Contact US</string>
+    <string name="settings">Parametres</string>
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
-    <string name="prompt_password">Password (optional)</string>
+    <string name="prompt_password">Mot de passe (optional)</string>
     <string name="action_sign_in">Sign in or register</string>
     <string name="action_sign_in_short">Sign in</string>
-    <string name="error_invalid_data">The information you entered is invalid</string>
-    <string name="error_invalid_email">This email address is invalid</string>
-    <string name="error_invalid_password">This password is too short</string>
-    <string name="error_incorrect_password">This password is incorrect</string>
-    <string name="error_field_required">This field is required</string>
+    <string name="error_invalid_data">L\'information que vous avez entré est invalide</string>
+    <!--    <string name="error_invalid_email">This email address is invalid</string>-->
+    <string name="error_invalid_password">Ce mot de passe est trop court</string>
+    <string name="error_incorrect_password">Ce mot de passe est incorrect</string>
+    <string name="error_field_required">Ce champ est obligatoire</string>
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <!-- keys -->
+    <string name="language_key" translatable="false">lang </string>
+    <string name="language_title">Langue </string>
+    <string name="pref_label_arab">Arab </string>
+    <string name="pref_label_french">Français </string>
+
 
 </resources>

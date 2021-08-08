@@ -10,28 +10,28 @@
 <resources>
 
     <!-- Indigo 500 -->
-    <color name="primary_500">#3F51B5</color>
+    <color name="primary_500">#f17542</color>
     <!-- Indigo 700 -->
-    <color name="primary_700">#303F9F</color>
+    <color name="primary_700">#f28c4a</color>
     <!-- Pink 500 -->
-    <color name="accent_500">#E91E63</color>
+    <color name="accent_500">#fcfcfc</color>
     <!-- Pink 700 -->
-    <color name="accent_700">#C2185B</color>
+    <color name="accent_700">#fcfcfc</color>
     <color name="black_trans80">#14000000</color>
     <color name="indicator_unselected">#4D000000</color>
     <color name="blue_grey">#455A64</color>
     <color name="red">#F44336</color>
     <color name="pink">#E91E63</color>
     <color name="purple">#9C27B0</color>
-    <color name="deep_purple">#673AB7</color>
-    <color name="indigo">#3F51B5</color>
-    <color name="blue">#2196F3</color>
-    <color name="light_blue">#03A9F4</color>
-    <color name="cyan">#00BCD4</color>
-    <color name="teal">#009688</color>
-    <color name="green">#4CAF50</color>
-    <color name="light_green">#8BC34A</color>
-    <color name="lime">#CDDC39</color>
+    <color name="deep_purple">#f16a3f</color>
+    <color name="indigo">#f17542</color>
+    <color name="blue">#f18046</color>
+    <color name="light_blue">#f28c4a</color>
+    <color name="cyan">#f28c4a</color>
+    <color name="teal">#f28c4a</color>
+    <color name="green">#f28c4a</color>
+    <color name="light_green">#f28c4a</color>
+    <color name="lime">#f28c4a</color>
     <color name="yellow">#FFEB3B</color>
     <color name="amber">#FFC107</color>
     <color name="orange">#FF9800</color>
@@ -94,14 +94,14 @@
     <color name="holo_blue_bright">#ff00ddff</color>
     <!-- A really bright Holo shade of gray -->
     <color name="holo_gray_bright">#33CCCCCC</color>
-    <color name="primary">#3f51b5</color>
-    <color name="primary_dark">#303f9f</color>
+    <color name="primary">#f18046</color>
+    <color name="primary_dark">#f16a3f</color>
     <color name="ripple">#F06292</color>
-    <color name="accent">#E91E63</color>
-    <color name="accent_pressed">#C2185B</color>
+    <color name="accent">#fcfcfc</color>
+    <color name="accent_pressed">#fcfcfc</color>
 
 
-    <color name="material_blue_500">#5677fc</color>
+    <color name="material_blue_500">#f16a3f</color>
     <color name="waveform_selected">#00BFA5</color>
     <color name="waveform_unselected">#535353</color>
     <color name="waveform_unselected_bkgnd_overlay">#ffd6d7d7</color>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UBS</string>
+    <string name="action_settings">إعدادات</string>
+    <string name="empty_text">Select song from below to play</string>
+    <string name="standard">Standard</string>
+    <string name="title_changelog">Change log</string>
+    <string name="changelog_close">غلق</string>
+    <string name="action_hide">إخفاء</string>
+    <string name="action_show">إظهار</string>
+    <!--    <string name="action_anchor_enable">Enable Anchor Point</string>-->
+    <!--    <string name="action_anchor_disable">Disable Anchor Point</string>-->
+    <string name="idle">Idle</string>
+    <string name="crash_toast_text">خلل تقني</string>
+    <!--    <string name="offer_banner">"Shop for 2000 to get Rs 100 discount and shop for 3000 to get Rs 200 discount"</string>-->
+    <string name="checkout">الدفع</string>
+    <string name="similar_product">قد يعجبك</string>
+    <string name="slogan">توصيل سهل</string>
+    <string name="email_developer_">البريد الإلكتروني:</string>
+    <!--    <string name="personal_website_">Personal Website :</string>-->
+    <!--    <string name="site_hitesh">www.hiteshsahu.com</string>-->
+    <string name="contact_number">رقم الاتصال</string>
+    <string name="mob_num">0699999999</string>
+    <string name="lab_locations">Locations</string>
+    <string name="pune">Pune</string>
+    <string name="address">العنوان</string>
+    <string name="address_value">القبة , الجزائر</string>
+    <string name="title_activity_signup">تسجيل</string>
+    <string name="lang_fr">Français</string>
+    <string name="lang_ar">عربي</string>
+    <!-- HomeFragment frag_product_category-->
+    <string name="toolbar_categories_title">الفئات</string>
+    <!-- mNavigationView drawer-->
+    <string name="home">القائمة العامة</string>
+    <string name="my_cart">المشتريات</string>
+    <string name="apriori_mining_resul">السابق</string>
+    <string name="contact_us">الاتصال بنا</string>
+    <string name="settings">إعدادات</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">البريد الإلكتروني</string>
+    <string name="prompt_password">كلمة السر (اختياري)</string>
+    <string name="action_sign_in">دخول أو تسجيل</string>
+    <string name="action_sign_in_short">دخول</string>
+    <string name="error_invalid_data">المعلومات التي تم إدخالها غير صالحة</string>
+    <!--    <string name="error_invalid_email">عنوان البريد الإلكتروني هذا غير صالح</string>-->
+    <string name="error_invalid_password">كلمة المرور هذه قصيرة جدًا</string>
+    <string name="error_incorrect_password">كلمة المرور هذه غير صحيحة</string>
+    <string name="error_field_required">هذه الخانة مطلوبه</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="language_title">اللغة </string>
+    <string name="pref_label_arab">العربية </string>
+    <string name="pref_label_french">الفرنسية </string>
+</resources>

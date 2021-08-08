@@ -12,9 +12,14 @@
     tools:context=".view.activities.SplashActivity">
 
     <item
-        android:id="@+id/action_settings"
+        android:id="@+id/franch"
         android:orderInCategory="100"
-        android:title="@string/action_settings"
+        android:title="@string/lang_fr"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/arab"
+        android:orderInCategory="100"
+        android:title="@string/lang_ar"
         app:showAsAction="never" />
     <item
         android:id="@+id/action_about"
